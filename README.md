@@ -6,4 +6,4 @@
 
 ## Career Module
 
--[Live Coding](career-module/live-coding.html)
+- [Live Coding](career-module/live-coding.html)
