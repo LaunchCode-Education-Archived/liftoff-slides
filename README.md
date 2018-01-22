@@ -5,3 +5,5 @@
 - [Intermediate Git](project-module/intermediate-git.html)
 
 ## Career Module
+
+-[Live Coding](career-module/live-coding.html)
